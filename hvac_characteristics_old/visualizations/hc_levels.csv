@@ -1,0 +1,23 @@
+housing_characteristic,level
+Heating Fuel,0
+Vintage,0
+Geometry Foundation Type,0
+Geometry Building Type RECS,0
+Location Region,0
+Ducts,1
+HVAC System Is Shared,1
+HVAC System Shared Other Fuel,2
+HVAC System Shared Propane,2
+HVAC System Shared Fuel Oil,2
+HVAC System Is Heat Pump,2
+HVAC System Shared Natural Gas,2
+HVAC System Shared None,2
+HVAC System Shared Electricity,2
+HVAC System Heat Pump,3
+HVAC System Heating None,3
+HVAC System Cooling,3
+HVAC System Heating Fuel Oil,3
+HVAC System Heating Propane,3
+HVAC System Heating Natural Gas,3
+HVAC System Heating Other Fuel,3
+HVAC System Heating Electricity,3

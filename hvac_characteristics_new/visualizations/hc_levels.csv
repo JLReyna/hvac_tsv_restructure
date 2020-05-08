@@ -1,0 +1,12 @@
+housing_characteristic,level
+Heating Fuel,0
+Geometry Building Type RECS,0
+HVAC System Heating Type,1
+Secondary Heating,1
+HVAC Heating Natural Gas,2
+HVAC System Cooling Type,2
+HVAC System Misc Fuels,2
+HVAC Heating Electricity,2
+HVAC System Cooling Efficiency,3
+Has Ducts,3
+Has Shared System,3

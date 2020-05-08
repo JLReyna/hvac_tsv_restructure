@@ -1,0 +1,37 @@
+Dependency=Heating Fuel	Dependency=HVAC System Heating Type	Option=None	Option=Gas Boiler, 80% AFUE	Option=Gas Boiler, 76% AFUE	Option=Gas Boiler, 72% AFUE	Option=Gas Furnace, 96% AFUE	Option=Gas Furnace, 92.5% AFUE	Option=Gas Furnace, 80% AFUE	Option=Gas Furnace, 76% AFUE	Option=Gas Furnace, 60% AFUE	Option=Gas Wall/Floor Furnace, 68% AFUE	Option=Gas Wall/Floor Furnace, 60% AFUE
+Electricity	Shared Heating System	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Electricity	Heat Pump, Ducted	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Electricity	Heat Pump, Mini-split	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Electricity	Central Ducted	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Electricity	Central Non-Ducted	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Electricity	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Natural Gas	Shared Heating System	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Natural Gas	Heat Pump, Ducted	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Natural Gas	Heat Pump, Mini-split	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Natural Gas	Central Ducted	0	0.0	0.0	0.0	0.2	0.2	0.2	0.2	0.2	0.0	0.0
+Natural Gas	Central Non-Ducted	0	0.2	0.2	0.2	0.0	0.0	0.0	0.0	0.0	0.2	0.2
+Natural Gas	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Other Fuel	Shared Heating System	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Other Fuel	Heat Pump, Ducted	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Other Fuel	Heat Pump, Mini-split	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Other Fuel	Central Ducted	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Other Fuel	Central Non-Ducted	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Other Fuel	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+None	Shared Heating System	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+None	Heat Pump, Ducted	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+None	Heat Pump, Mini-split	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+None	Central Ducted	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+None	Central Non-Ducted	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+None	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Propane	Shared Heating System	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Propane	Heat Pump, Ducted	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Propane	Heat Pump, Mini-split	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Propane	Central Ducted	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Propane	Central Non-Ducted	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Propane	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Fuel Oil	Shared Heating System	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Fuel Oil	Heat Pump, Ducted	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Fuel Oil	Heat Pump, Mini-split	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Fuel Oil	Central Ducted	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Fuel Oil	Central Non-Ducted	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Fuel Oil	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

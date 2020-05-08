@@ -1,0 +1,7 @@
+Dependency=Heating Fuel	Option=None	Option=Portable Space Heater, 10%	Option=Fireplace, 10%	Option=Portable Space Heater, 20%	Option=Fireplace, 20%	Option=Portable Space Heater, 30%	Option=Fireplace, 30%	Option=Portable Space Heater, 40%	Option=Fireplace, 40%	Option=Portable Space Heater, 50%	Option=Fireplace, 50%	Option=Portable Space Heater, 60%	Option=Fireplace, 60%	Option=Portable Space Heater, 70%	Option=Fireplace, 70%	Option=Portable Space Heater, 80%	Option=Fireplace, 80%	Option=Portable Space Heater, 90%	Option=Fireplace, 90%
+Electricity	0.4	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.04	0.04	0.04	0.04	0.04	0.04
+Natural Gas	0.4	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.04	0.04	0.04	0.04	0.04	0.04
+Propane	0.4	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.04	0.04	0.04	0.04	0.04	0.04
+Fuel Oil	0.4	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.04	0.04	0.04	0.04	0.04	0.04
+Other Fuel	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+None	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,31 @@
+Dependency=HVAC System Heating Type	Dependency=HVAC System Cooling Type	Option=Yes	Option=No
+Shared Heating System	None	0	1
+Heat Pump, Ducted	None	1	0
+Heat Pump, Non-Ducted	None	0	1
+Central Ducted	None	1	0
+Central Non-Ducted	None	0	1
+None	None	0	1
+Shared Heating System	Heat Pump	0	1
+Heat Pump, Ducted	Heat Pump	1	0
+Heat Pump, Non-Ducted	Heat Pump	0	1
+Central Ducted	Heat Pump	0	1
+Central Non-Ducted	Heat Pump	0	1
+None	Heat Pump	0	1
+Shared Heating System	Shared Cooling System	0	1
+Heat Pump, Ducted	Shared Cooling System	0	1
+Heat Pump, Non-Ducted	Shared Cooling System	0	1
+Central Ducted	Shared Cooling System	1	0
+Central Non-Ducted	Shared Cooling System	0	1
+None	Shared Cooling System	0	1
+Shared Heating System	Central	1	0
+Heat Pump, Ducted	Central	0	1
+Heat Pump, Non-Ducted	Central	0	1
+Central Ducted	Central	1	0
+Central Non-Ducted	Central	1	0
+None	Central	1	0
+Shared Heating System	Room AC	0	1
+Heat Pump, Ducted	Room AC	0	1
+Heat Pump, Non-Ducted	Room AC	0	1
+Central Ducted	Room AC	1	0
+Central Non-Ducted	Room AC	1	0
+None	Room AC	0	1
