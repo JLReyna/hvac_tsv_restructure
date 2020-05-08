@@ -1,2 +1,2 @@
-Option=Electricity	Option=Fuel Oil	Option=Natural Gas	Option=None	Option=Other Fuel	Option=Propane
-0.73706	0	0.128364	0	0.010352	0.124224
+Option=Electricity	Option=Fuel Oil	Option=Natural Gas	Option=None	Option=Other Fuel	Option=Propane	resstock_probability
+0.73706	0	0.128364	0	0.010352	0.124224	1

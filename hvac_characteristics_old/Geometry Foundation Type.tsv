@@ -1,2 +1,2 @@
-Option=Pier and Beam	Option=Unheated Basement	Option=Heated Basement	Option=Crawl	Option=Slab
-0.1	0.06	0.05	0.31	0.48
+Option=Pier and Beam	Option=Unheated Basement	Option=Heated Basement	Option=Crawl	Option=Slab	resstock_probability
+0.1	0.06	0.05	0.31	0.48	1
