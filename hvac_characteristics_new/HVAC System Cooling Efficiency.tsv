@@ -1,6 +1,6 @@
-Dependency=HVAC System Cooling Type	Option=None	Option=Heat Pump	Option=Shared	Option=AC, SEER 8	Option=AC, SEER 10	Option=AC, SEER 13	Option=AC, SEER 15	Option=FIXME Room AC, EER 8.5, 20% Conditioned	Option=FIXME Room AC, EER 10.7, 20% Conditioned
-None	1	0	0	0.0	0.0	0.0	0.0	0.0	0.0
-Heat Pump	0	1	0	0.0	0.0	0.0	0.0	0.0	0.0
-Shared Cooling	0	0	1	0.0	0.0	0.0	0.0	0.0	0.0
-Central	0	0	0	0.25	0.25	0.25	0.25	0.0	0.0
-Room AC	0	0	0	0.0	0.0	0.0	0.0	0.5	0.5
+Dependency=HVAC System Cooling Type	Option=None	Option=Heat Pump	Option=Shared	Option=AC, SEER 8	Option=AC, SEER 10	Option=AC, SEER 13	Option=AC, SEER 15	Option=FIXME Room AC, EER 8.5, 20% Conditioned	Option=FIXME Room AC, EER 10.7, 20% Conditioned	resstock_probability
+None	1	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.213147
+Heat Pump	0	1	0	0.0	0.0	0.0	0.0	0.0	0.0	0.14741200000000002
+Shared Cooling	0	0	1	0.0	0.0	0.0	0.0	0.0	0.0	0.213147
+Central	0	0	0	0.25	0.25	0.25	0.25	0.0	0.0	0.213147
+Room AC	0	0	0	0.0	0.0	0.0	0.0	0.5	0.5	0.213147

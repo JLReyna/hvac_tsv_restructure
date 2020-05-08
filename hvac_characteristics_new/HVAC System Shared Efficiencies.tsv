@@ -1,25 +1,25 @@
-Dependency=Heating Fuel	Dependency=Has Shared System	Option=None	Option=Fan Coil Heating And Cooling, Electricity	Option=PTAC Heating And Cooling, Electricity	Option=Fan Coil Heating And Cooling, Natural Gas	Option=PTAC Heating And Cooling, Natural Gas	Option=Fan Coil Heating and Cooling, Propane	Option=PTAC Heating And Cooling, Propane	Option=Fan Coil Heating and Cooling, Fuel Oil	Option=PTAC Heating And Cooling, Fuel Oil	Option=Fan Coil Cooling Only	Option=Boiler Baseboards Heating Only, Electricity	Option=Boiler Baseboards Heating Only, Natural Gas	Option=Boiler Baseboards Heating Only, Propane	Option=Boiler Baseboards Heating Only, Fuel Oil
-Electricity	Heating Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	1	0	0	0
-Natural Gas	Heating Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	1	0	0
-Propane	Heating Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	1	0
-Fuel Oil	Heating Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	1
-Other Fuel	Heating Only	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0
-None	Heating Only	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0
-Electricity	Cooling Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0	0	0
-Natural Gas	Cooling Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0	0	0
-Propane	Cooling Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0	0	0
-Fuel Oil	Cooling Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0	0	0
-Other Fuel	Cooling Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0	0	0
-None	Heating and Cooling	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0
-Electricity	Heating and Cooling	0	0.5	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0
-Natural Gas	Heating and Cooling	0	0.0	0.0	0.5	0.5	0.0	0.0	0.0	0.0	0	0	0	0	0
-Propane	Heating and Cooling	0	0.0	0.0	0.0	0.0	0.5	0.5	0.0	0.0	0	0	0	0	0
-Fuel Oil	Heating and Cooling	0	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.5	0	0	0	0	0
-Other Fuel	Heating and Cooling	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0
-None	Heating and Cooling	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0
-Electricity	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0
-Natural Gas	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0
-Propane	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0
-Fuel Oil	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0
-Other Fuel	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0
-None	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0
+Dependency=Heating Fuel	Dependency=Has Shared System	Option=None	Option=Fan Coil Heating And Cooling, Electricity	Option=PTAC Heating And Cooling, Electricity	Option=Fan Coil Heating And Cooling, Natural Gas	Option=PTAC Heating And Cooling, Natural Gas	Option=Fan Coil Heating and Cooling, Propane	Option=PTAC Heating And Cooling, Propane	Option=Fan Coil Heating and Cooling, Fuel Oil	Option=PTAC Heating And Cooling, Fuel Oil	Option=Fan Coil Cooling Only	Option=Boiler Baseboards Heating Only, Electricity	Option=Boiler Baseboards Heating Only, Natural Gas	Option=Boiler Baseboards Heating Only, Propane	Option=Boiler Baseboards Heating Only, Fuel Oil	resstock_probability
+Electricity	Heating Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	1	0	0	0	0.19976920451200003
+Natural Gas	Heating Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	1	0	0	0.0347911624128
+Propane	Heating Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	1	0	0.03366907668480001
+Fuel Oil	Heating Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	1	0.0
+Other Fuel	Heating Only	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0	0.0028057563904000005
+None	Heating Only	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0	0.0
+Electricity	Cooling Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0	0	0	0.113950544737
+Natural Gas	Cooling Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0	0	0	0.0198452605278
+Propane	Cooling Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0	0	0	0.0192052105248
+Fuel Oil	Cooling Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0	0	0	0.0
+Other Fuel	Cooling Only	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0	0	0	0.0016004342104000001
+None	Cooling Only	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0	0.0
+Electricity	Heating and Cooling	0	0.5	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0	0.043151583083
+Natural Gas	Heating and Cooling	0	0.0	0.0	0.5	0.5	0.0	0.0	0.0	0.0	0	0	0	0	0	0.0075151409802
+Propane	Heating and Cooling	0	0.0	0.0	0.0	0.0	0.5	0.5	0.0	0.0	0	0	0	0	0	0.007272762403200001
+Fuel Oil	Heating and Cooling	0	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.5	0	0	0	0	0	0.0
+Other Fuel	Heating and Cooling	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0	0.0006060635336
+None	Heating and Cooling	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0	0.0
+Electricity	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0	0.380188667668
+Natural Gas	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0	0.06621243607920001
+Propane	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0	0.0640769503872
+Fuel Oil	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0	0.0
+Other Fuel	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0	0.0053397458656
+None	None	1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0	0	0	0.0

@@ -1,26 +1,31 @@
-Dependency=HVAC System Heating Type	Dependency=HVAC System Cooling Type	Option=None	Option=Heating Only	Option=Cooling Only	Option=Heating and Cooling
-Shared Heating System	Shared Cooling System	0	0	0	1
-Heat Pump	Shared Cooling System	1	0	0	0
-Central Ducted	Shared Cooling System	0	0	1	0
-Central Non-Ducted	Shared Cooling System	0	0	1	0
-None	Shared Cooling System	0	0	1	0
-Shared Heating System	Heat Pump	1	0	0	0
-Heat Pump	Heat Pump	1	0	0	0
-Central Ducted	Heat Pump	1	0	0	0
-Central Non-Ducted	Heat Pump	1	0	0	0
-None	Heat Pump	1	0	0	0
-Shared Heating System	Central	0	1	0	0
-Heat Pump	Central	1	0	0	0
-Central Ducted	Central	0	1	0	0
-Central Non-Ducted	Central	0	1	0	0
-None	Central	1	0	0	0
-Shared Heating System	Room AC	0	1	0	0
-Heat Pump	Room AC	1	0	0	0
-Central Ducted	Room AC	1	0	0	0
-Central Non-Ducted	Room AC	1	0	0	0
-None	Room AC	1	0	0	0
-Shared Heating System	None	0	1	0	0
-Heat Pump	None	1	0	0	0
-Central Ducted	None	1	0	0	0
-Central Non-Ducted	None	1	0	0	0
-None	None	1	0	0	0
+Dependency=HVAC System Heating Type	Dependency=HVAC System Cooling Type	Option=None	Option=Heating Only	Option=Cooling Only	Option=Heating and Cooling	resstock_probability
+Shared Heating System	Shared Cooling System	0	0	0	1	0.05854555
+Heat Pump, Ducted	Shared Cooling System	1	0	0	0	0.0
+Heat Pump, Mini-Split	Shared Cooling System	1	0	0	0	0.0
+Central Ducted	Shared Cooling System	0	0	1	0	0.036853000000000004
+Central Non-Ducted	Shared Cooling System	0	0	1	0	0.05854555
+None	Shared Cooling System	0	0	1	0	0.0592029
+Shared Heating System	Heat Pump	1	0	0	0	0.0
+Heat Pump, Ducted	Heat Pump	1	0	0	0	0.0
+Heat Pump, Mini-Split	Heat Pump	1	0	0	0	0.14741200000000002
+Central Ducted	Heat Pump	1	0	0	0	0.0
+Central Non-Ducted	Heat Pump	1	0	0	0	0.0
+None	Heat Pump	1	0	0	0	0.0
+Shared Heating System	Central	0	1	0	0	0.05854555
+Heat Pump, Ducted	Central	1	0	0	0	0.0
+Heat Pump, Mini-Split	Central	1	0	0	0	0.0
+Central Ducted	Central	0	1	0	0	0.036853000000000004
+Central Non-Ducted	Central	0	1	0	0	0.05854555
+None	Central	1	0	0	0	0.0592029
+Shared Heating System	Room AC	0	1	0	0	0.05854555
+Heat Pump, Ducted	Room AC	1	0	0	0	0.0
+Heat Pump, Mini-Split	Room AC	1	0	0	0	0.0
+Central Ducted	Room AC	1	0	0	0	0.036853000000000004
+Central Non-Ducted	Room AC	1	0	0	0	0.05854555
+None	Room AC	1	0	0	0	0.0592029
+Shared Heating System	None	0	1	0	0	0.05854555
+Heat Pump, Ducted	None	1	0	0	0	0.0
+Heat Pump, Mini-Split	None	1	0	0	0	0.0
+Central Ducted	None	1	0	0	0	0.036853000000000004
+Central Non-Ducted	None	1	0	0	0	0.05854555
+None	None	1	0	0	0	0.0592029
