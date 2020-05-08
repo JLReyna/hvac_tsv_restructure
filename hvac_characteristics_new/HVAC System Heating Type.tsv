@@ -1,7 +1,7 @@
 Dependency=Heating Fuel	Option=Shared Heating System	Option=None	Option=Heat Pump, Ducted	Option=Heat Pump, Mini-Split	Option=Central Ducted	Option=Central Non-Ducted	resstock_probability
-Electricity	0.2	0	0.2	0.2	0.2	0.2	0.73706
-Fuel Oil	0.33	0	0.0	0.0	0.33	0.34	0.0
-Natural Gas	0.33	0	0.0	0.0	0.33	0.34	0.128364
-None	0.0	1	0.0	0.0	0.0	0.0	0.0
-Other Fuel	0.33	0	0.0	0.0	0.33	0.34	0.010352
-Propane	0.33	0	0.0	0.0	0.33	0.34	0.124224
+Electricity	0.2	0	0.2	0.2	0.2	0.2	0.17
+Fuel Oil	0.33	0	0.0	0.0	0.33	0.34	0.17
+Natural Gas	0.25	0	0.25	0.0	0.25	0.25	0.17
+None	0.0	1	0.0	0.0	0.0	0.0	0.17
+Other Fuel	0.33	0	0.0	0.0	0.33	0.34	0.16000000000000003
+Propane	0.25	0	0.25	0.0	0.25	0.25	0.16

@@ -1,37 +1,37 @@
 Dependency=Heating Fuel	Dependency=HVAC System Heating Type	Option=None	Option=Electric Boiler	Option=Electric Furnace	Option=Electric Baseboard	Option=ASHP, SEER 10, 6.2 HSPF	Option=ASHP, SEER 13, 7.7 HSPF	Option=ASHP, SEER 15, 8.5 HSPF	Option=MSHP, SEER 14.5, 8.2 HSPF	Option=MSHP, SEER 29.3, 14 HSPF	resstock_probability
-Electricity	Shared Heating System	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.14741200000000002
-Electricity	Heat Pump, Ducted	0	0.0	0	0.0	0.33	0.33	0.34	0.0	0.0	0.14741200000000002
-Electricity	Heat Pump, Mini-split	0	0.0	0	0.0	0.0	0.0	0.0	0.5	0.5	0.14741200000000002
-Electricity	Central Ducted	0	0.0	1	0.0	0.0	0.0	0.0	0.0	0.0	0.14741200000000002
-Electricity	Central Non-Ducted	0	0.5	0	0.5	0.0	0.0	0.0	0.0	0.0	0.14741200000000002
+Electricity	Shared Heating System	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.034
+Electricity	Heat Pump, Ducted	0	0.0	0	0.0	0.33	0.33	0.34	0.0	0.0	0.034
+Electricity	Heat Pump, Mini-split	0	0.0	0	0.0	0.0	0.0	0.0	0.5	0.5	0.034
+Electricity	Central Ducted	0	0.0	1	0.0	0.0	0.0	0.0	0.0	0.0	0.034
+Electricity	Central Non-Ducted	0	0.5	0	0.5	0.0	0.0	0.0	0.0	0.0	0.034
 Electricity	None	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-Natural Gas	Shared Heating System	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.04236012
-Natural Gas	Heat Pump, Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Natural Gas	Shared Heating System	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0425
+Natural Gas	Heat Pump, Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0425
 Natural Gas	Heat Pump, Mini-split	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-Natural Gas	Central Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.04236012
-Natural Gas	Central Non-Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.043643760000000004
+Natural Gas	Central Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0425
+Natural Gas	Central Non-Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0425
 Natural Gas	None	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-Other Fuel	Shared Heating System	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.00341616
+Other Fuel	Shared Heating System	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.05280000000000002
 Other Fuel	Heat Pump, Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 Other Fuel	Heat Pump, Mini-split	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-Other Fuel	Central Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.00341616
-Other Fuel	Central Non-Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0035196800000000003
+Other Fuel	Central Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.05280000000000002
+Other Fuel	Central Non-Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.054400000000000025
 Other Fuel	None	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 None	Shared Heating System	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 None	Heat Pump, Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 None	Heat Pump, Mini-split	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 None	Central Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 None	Central Non-Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-None	None	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-Propane	Shared Heating System	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.04099392
-Propane	Heat Pump, Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+None	None	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.17
+Propane	Shared Heating System	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.04
+Propane	Heat Pump, Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.04
 Propane	Heat Pump, Mini-split	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-Propane	Central Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.04099392
-Propane	Central Non-Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.04223616
+Propane	Central Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.04
+Propane	Central Non-Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.04
 Propane	None	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-Fuel Oil	Shared Heating System	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Fuel Oil	Shared Heating System	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.056100000000000004
 Fuel Oil	Heat Pump, Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 Fuel Oil	Heat Pump, Mini-split	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-Fuel Oil	Central Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-Fuel Oil	Central Non-Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Fuel Oil	Central Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.056100000000000004
+Fuel Oil	Central Non-Ducted	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.05780000000000001
 Fuel Oil	None	1	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

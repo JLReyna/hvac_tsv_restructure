@@ -1,7 +1,7 @@
 Dependency=HVAC System Heating Type	Option=None	Option=Heat Pump	Option=Shared Cooling System	Option=Central	Option=Room AC	resstock_probability
-Shared Heating System	0.25	0	0.25	0.25	0.25	0.2341822
-Heat Pump, Ducted	0.0	1	0.0	0.0	0.0	0.0
-Heat Pump, Mini-split	0.0	1	0.0	0.0	0.0	0.14741200000000002
-Central Ducted	0.25	0	0.25	0.25	0.25	0.14741200000000002
-Central Non-Ducted	0.25	0	0.25	0.25	0.25	0.2341822
-None	0.25	0	0.25	0.25	0.25	0.2368116
+Shared Heating System	0.25	0	0.25	0.25	0.25	0.22540000000000004
+Heat Pump, Ducted	0.0	1	0.0	0.0	0.0	0.17
+Heat Pump, Mini-split	0.0	1	0.0	0.0	0.0	0.11650000000000002
+Central Ducted	0.25	0	0.25	0.25	0.25	0.034
+Central Non-Ducted	0.25	0	0.25	0.25	0.25	0.22540000000000004
+None	0.25	0	0.25	0.25	0.25	0.22870000000000007
